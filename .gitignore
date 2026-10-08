@@ -1,0 +1,28 @@
+# ===== 编译产物（不需要提交）=====
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.dll
+*.so
+
+# ===== 调试文件 =====
+*.dSYM/
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# ===== 编辑器 / IDE 配置 =====
+.vscode/
+.idea/
+*.code-workspace
+
+# ===== 系统临时文件 =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== 日志 =====
+*.log
